@@ -1,0 +1,17 @@
+# Temp folder etc
+__*
+.vscode/
+
+# Large data
+*.tif
+*.tiff
+*.zip
+*.tar
+
+# Logs
+logs/
+experiments/*
+
+# Condor
+
+condor/
