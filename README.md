@@ -1,6 +1,6 @@
 <div align="center">
 
-# The library for Synthetic Live Cell Microscopy Video Generation
+# The library for Synthetic Live Cell Microscopy Video Generation [SASHIMI 2024 Best Reproducibility Award]
 [![Arxiv](https://img.shields.io/badge/ArXiv-2403.17808-orange.svg?color=red)](https://arxiv.org/abs/2403.17808)
 </div>
 
